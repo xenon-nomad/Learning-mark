@@ -1,1 +1,2 @@
-## 2026/09/29 手写embedding(含反向传播)
+# 第二周进入到损失函数的深入，有embedding softmax
+## -1- 2026/09/29 手写embedding(含反向传播)
